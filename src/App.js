@@ -10,8 +10,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <h1>This is first ashish React js and Docker project </h1>
-        <h2> This is second h2 to test </h2>
+        <h1>Congratulations Ashish !!! You have done it </h1> 
         <a
           className="App-link"
           href="https://reactjs.org"
